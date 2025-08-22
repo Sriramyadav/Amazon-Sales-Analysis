@@ -41,7 +41,7 @@ The report includes sales trends, fulfillment analysis, and courier status insig
 ---
 
 ## 🔹 Order Size Distribution & Shipping States
-![Order Sizes & Shipping States](images/Screenshot39.png)
+![Order Sizes & Shipping States](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(39).png)
 
 ---
 
@@ -62,11 +62,6 @@ The report includes sales trends, fulfillment analysis, and courier status insig
 
 ## 🔹 Ship Service Levels
 ![Ship Service Levels](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(43).png)
-
----
-
-## 🔹 Payment Proof (Certification)
-![Payment Status](images/Screenshot2023-08-14-185700.png)
 
 ---
 
