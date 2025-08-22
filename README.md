@@ -31,37 +31,37 @@ The report includes sales trends, fulfillment analysis, and courier status insig
 ---
 
 ## 🔹 Load the Data
-![Load Data](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(44).png)
+![Load Data](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(44).png?raw=true)
 
 ---
 
 ## 🔹 Data Types
-![Data Types](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(45).png)
+![Data Types](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(45).png?raw=true)
 
 ---
 
 ## 🔹 Order Size Distribution & Shipping States
-![Order Sizes & Shipping States](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(39).png)
+![Order Sizes & Shipping States](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(39).png?raw=true)
 
 ---
 
 ## 🔹 Sales Amount Analysis
-![Sales Amount](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(40).png)
+![Sales Amount](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(40).png?raw=true)
 
 ---
 
 ## 🔹 Courier Status Distribution
-![Courier Status](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(41).png)
+![Courier Status](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(41).png?raw=true)
 
 ---
 
 ## 🔹 Order Fulfillment Distribution
-![Fulfillment](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(42).png)
+![Fulfillment](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(42).png?raw=true)
 
 ---
 
 ## 🔹 Ship Service Levels
-![Ship Service Levels](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(43).png)
+![Ship Service Levels](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(43).png?raw=true)
 
 ---
 
