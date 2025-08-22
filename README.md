@@ -36,7 +36,7 @@ The report includes sales trends, fulfillment analysis, and courier status insig
 ---
 
 ## 🔹 Data Types
-![Data Types](images/Screenshot45.png)
+![Data Types](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(45).png)
 
 ---
 
