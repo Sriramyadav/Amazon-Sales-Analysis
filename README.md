@@ -46,7 +46,7 @@ The report includes sales trends, fulfillment analysis, and courier status insig
 ---
 
 ## 🔹 Sales Amount Analysis
-![Sales Amount](images/Screenshot40.png)
+![Sales Amount](https://github.com/Sriramyadav/Amazon-Sales-Analysis/blob/main/Screenshot%20(40).png)
 
 ---
 
