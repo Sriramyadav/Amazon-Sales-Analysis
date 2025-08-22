@@ -23,3 +23,50 @@ It includes data preprocessing, sales aggregation, and visualizations such as ba
 ---
 
 ## 📂 Project Structure
+# 📊 InnoByte Services - Data Analysis Project
+
+This project focuses on analyzing Amazon sales data using Python (Pandas, Matplotlib).  
+The report includes sales trends, fulfillment analysis, and courier status insights.  
+
+---
+
+## 🔹 Load the Data
+![Load Data](images/Screenshot44.png)
+
+---
+
+## 🔹 Data Types
+![Data Types](images/Screenshot45.png)
+
+---
+
+## 🔹 Order Size Distribution & Shipping States
+![Order Sizes & Shipping States](images/Screenshot39.png)
+
+---
+
+## 🔹 Sales Amount Analysis
+![Sales Amount](images/Screenshot40.png)
+
+---
+
+## 🔹 Courier Status Distribution
+![Courier Status](images/Screenshot41.png)
+
+---
+
+## 🔹 Order Fulfillment Distribution
+![Fulfillment](images/Screenshot42.png)
+
+---
+
+## 🔹 Ship Service Levels
+![Ship Service Levels](images/Screenshot43.png)
+
+---
+
+## 🔹 Payment Proof (Certification)
+![Payment Status](images/Screenshot2023-08-14-185700.png)
+
+---
+
